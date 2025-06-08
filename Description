@@ -7,5 +7,5 @@ Sofware Used: MATLAB
 -Developed and simulate adaptive cruise controller.
 -Mass Spring Damper System using PID controller.
 -Tuning a PID Controller.
--DC Motor Position Control System.
+-DC Motor Position Control System derived from mathematical equations and further integrated with PID controller to improve its overall performance.
 -AI usage to find diabetes class.
