@@ -1,1 +1,11 @@
+# MATLAB Simulink Projects
+Sofware Used: MATLAB
 
+-Build a simulink model using mathematical equations.
+-Developed a PID Controller.
+-Simulation of a battery model
+-Developed and simulate adaptive cruise controller.
+-Mass Spring Damper System using PID controller.
+-Tuning a PID Controller.
+-DC Motor Position Control System.
+-AI usage to find diabetes class.
